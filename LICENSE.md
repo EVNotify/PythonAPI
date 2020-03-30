@@ -6,6 +6,7 @@ For further information please visit https://creativecommons.org/licenses/by-nc/
 Feel free to contribute and improve this repository and submit your changes via Pull Requests without any restrictions. 
 It is tolerated if you copy the code (or part of the code) and use it for personal use, 
 but you aren't allowed to use any of the code (even modified code) for commercial use.
+The usage of the API is restricted to private, non commercial use only unless otherwise agreed.
 > NonCommercial means not primarily intended for or directed towards commercial advantage or monetary compensation.
 
 Forks of (partial) code which won't be used for Pull Requests, must be declared with a mention and credit to this repository. Forks are only tolerated for non-commercial use.
